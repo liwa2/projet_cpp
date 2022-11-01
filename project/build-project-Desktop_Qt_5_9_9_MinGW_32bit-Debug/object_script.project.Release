@@ -1,0 +1,16 @@
+INPUT(
+./release\accommodation.o
+./release\client.o
+./release\connexion.o
+./release\dialog.o
+./release\employee.o
+./release\main.o
+./release\mainwindow.o
+./release\payment.o
+./release\profil.o
+./release\reservation.o
+./release\qrc_icons.o
+./release\qrc_login_ressources.o
+./release\moc_dialog.o
+./release\moc_mainwindow.o
+);
