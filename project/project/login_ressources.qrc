@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>login res/login.png</file>
+        <file>login res/LOGO.png</file>
+        <file>login res/agenda.png</file>
+        <file>login res/agenda2.png</file>
+        <file>login res/city.png</file>
+        <file>login res/city2.png</file>
+        <file>login res/HOTEL.png</file>
+        <file>login res/HOTEL2.png</file>
+        <file>login res/payment.png</file>
+        <file>login res/payment2.png</file>
+    </qresource>
+</RCC>
